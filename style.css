@@ -3,6 +3,27 @@
 body {
   font-family: "Playwrite AU SA", serif !important;
   font-optical-sizing: auto;
+  background-color: #f8c8d1 !important;
+  color: white; 
+  text-align: center; 
+  margin: 0;  
+  padding: 0; 
+}
   
-  FFCOCB
+  .carousel-item img{
+    
+    margin: auto; 
+    display: block;
+  }
+
+h1, h2, p {
+  text-align: center;
+}
+
+.card {
+  text-align: center;
+}
+
+.navbar-nav .nav-link {
+  text-align: center;
 }
